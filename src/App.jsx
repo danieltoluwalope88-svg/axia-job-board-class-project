@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import companyLogos from './comanyLogo'
+
 // TODO: Replace this with your hosted API URL when ready
 const API_URL = 'https://jobs-api-l3e2.onrender.com/api/jobs'
 
